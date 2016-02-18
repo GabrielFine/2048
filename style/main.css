@@ -409,19 +409,21 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
+    background: url('https://33.media.tumblr.com/avatar_5e9af74ad66e_128.png');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
+    background: url('https://33.media.tumblr.com/avatar_bfacf94db83d_128.png');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
+    background: url('https://33.media.tumblr.com/avatar_41db7ee12fa7_128.png'); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
+    background: url('https://38.media.tumblr.com/avatar_6aecd221fb0f_128.png'); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background:url('https://33.media.tumblr.com/avatar_7e5c0df4ffe1_128.png'); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: #f65e3b; }
@@ -459,7 +461,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background: #edc22e;
+    background: url('https://33.media.tumblr.com/avatar_6fcc173bb3d0_128.png');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
